@@ -39,6 +39,19 @@ We help clients use data-driven insights to make evidence-based policy and decis
 ## DATA ANALYSIS & STORY TELLING
 We support this work in two ways: first, using statistical and econometric analysis and modelling and data triangulation to create meaningful data and insights; second, using story-telling techniques to communicate an intuitive narrative that speaks to the choices that need to be made.
 
-
 # All-of-Government provider
 MartinJenkins is a registered provider of consultancy services in the All-of-Government (AoG) procurement scheme for Policy, research and development and Finance and economics services – as of December 2016.
+
+<!--
+<figure style="float:right;">
+<img alt="Marianna Pekar" src="https://www.martinjenkins.co.nz/assets/2022-Profile-Photos/Marianna-Pekar-website__PadWzU3MCwzODAsIkZGRkZGRiIsMF0.jpg" width="250" />
+<figcaption>Marianna Pekar</figcaption>
+</figure>
+-->
+
+# Collaborate and Contribute
+
+For more information about this this repository, contact [Marianna](https://www.martinjenkins.co.nz/about-us/executives/marianna-pekar/) or [Joel](https://www.martinjenkins.co.nz/about-us/consultants/joel-bancolita/). 
+
+
+
