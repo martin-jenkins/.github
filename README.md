@@ -1,4 +1,7 @@
+![MJ_Multiplier RGB 300DPI](https://user-images.githubusercontent.com/14915582/225483867-9822ae98-c797-4edd-89aa-65e673a8ebbf.jpg)
+
 # OUR STORY
+
 For over two decades MartinJenkins has specialised in providing high calibre organisational, financial, economic and public policy services to clients in New Zealand and beyond. Our energetic team of consultants has a wealth of in-depth knowledge and skills in financial and organisational management, process and business improvement, employment relations, economics, research, evaluation and public policy. By connecting this skill set and applying fresh thinking, we significantly lift our clients’ performance.
 
 ## TURNING KNOWLEDGE INTO PERFORMANCE
