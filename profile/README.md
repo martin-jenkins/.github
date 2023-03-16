@@ -2,15 +2,15 @@
 ![](https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg =250x250)
 ![MJ_Multiplier RGB 300DPI](./profile/MJ_Multiplier-RGB-300DPI.jpg)
 -->
-<img align=right src=https://github.com/martin-jenkins/.github/blob/main/profile/MJLogo-Black-16-9.png alt= "" width=250 style="border: 10px solid black">
 
 # OUR STORY
 
+<img align=left src=https://github.com/martin-jenkins/.github/blob/main/profile/MJLogo-Black-16-9.png alt= "" width=250 style="border: 10px solid black">
 For over two decades [MartinJenkins](https://www.martinjenkins.co.nz/about-us/our-story/) has specialised in providing high calibre organisational, financial, economic and public policy services to clients in New Zealand and beyond. Our energetic team of consultants has a wealth of in-depth knowledge and skills in financial and organisational management, process and business improvement, employment relations, economics, research, evaluation and public policy. By connecting this skill set and applying fresh thinking, we significantly lift our clients' performance.
 
 MartinJenkins has honed a robust set of strengths that describe the company's approach to tasks and the useful traits that underpin its client reputation. The ability of our staff to believe in and consistently apply these strengths across projects produces a significant lift in performance. We call this cumulative value for clients the [MartinJenkins Multiplier](https://www.martinjenkins.co.nz/about-us/our-strengths/).
 
-<img align=left src=https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg alt= "" width=400 height=400 style="border: 10px solid black">
+<img align=right src=https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg alt= "" width=400 height=400 style="border: 10px solid black">
 
 # DATA ANALYTICS
 One of the services MartinJenkins has bolstered over the years is its [Data Analytics](https://www.martinjenkins.co.nz/services/data-analytics/), recognising data has been referred to as the *new oil* or the *new gold*. Data in itself is valuable, but when it is transformed and integrated with other material, that's when its potential begins to be reached.
