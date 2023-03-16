@@ -3,7 +3,7 @@
 ![MJ_Multiplier RGB 300DPI](./profile/MJ_Multiplier-RGB-300DPI.jpg)
 -->
 
-<img align=right src=MJ_Multiplier-RGB-300DPI.jpg alt= "" width=500 height=500 style="border: 10px solid black">
+<img align=right src=https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg alt= "" width=400 height=400 style="border: 10px solid black">
 
 # OUR STORY
 
@@ -14,7 +14,16 @@ MartinJenkins has honed a robust set of strengths that describe the company’s 
 # DATA ANALYTICS
 One of the services MartinJenkins has bolstered over the years is its [Data Analytics](https://www.martinjenkins.co.nz/services/data-analytics/), recognising data has been referred to as the *new oil* or the *new gold*. Data in itself is valuable, but when it is transformed and integrated with other material, that's when its potential begins to be reached.
 
-Public sector organisations are dealing with expanding volumes of data and making sure the data held is robust and governed appropriately. They are grappling with the problem of legacy systems, and with the challenge of integrating data, whether across their own agency or across different agencies. There is a need to ensure high-quality evidence, data, and insights exist or are brought to light in a range of policy areas. This includes local government, tertiary education, environment, the health sector, mental health, child poverty, border security, infrastructure, and work to eliminate family and sexual violence.
+<!--
+<p><img align=left src=https://www.martinjenkins.co.nz/assets/2022-Profile-Photos/Marianna-Pekar-website__FillWzIwMCwxNjBd.jpg alt= "" width=200 style="border: 10px solid black"> <em>Marianna Pekar </em></p>
+-->
+
+<!--
+
+<figure> <img src=https://www.martinjenkins.co.nz/assets/2022-Profile-Photos/Marianna-Pekar-website__FillWzIwMCwxNjBd.jpg alt='missing' /> <figcaption>Marianna Pekar </figcaption> </figure>
+-->
+
+ Public sector organisations are dealing with expanding volumes of data and making sure the data held is robust and governed appropriately. They are grappling with the problem of legacy systems, and with the challenge of integrating data, whether across their own agency or across different agencies. There is a need to ensure high-quality evidence, data, and insights exist or are brought to light in a range of policy areas. This includes local government, tertiary education, environment, the health sector, mental health, child poverty, border security, infrastructure, and work to eliminate family and sexual violence.
 
 Our expertise is in using data analytics as a means to an end: we identify, structure, interpret and analyse your data in context of other datasets from the broader environment to create insights that lead to better policy, to more accurate and useful evaluations, to better investment decisions, and to better responses to organisational or strategic problems.
 
