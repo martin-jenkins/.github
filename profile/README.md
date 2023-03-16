@@ -1,8 +1,7 @@
 # OUR STORY
 For over two decades MartinJenkins has specialised in providing high calibre organisational, financial, economic and public policy services to clients in New Zealand and beyond. Our energetic team of consultants has a wealth of in-depth knowledge and skills in financial and organisational management, process and business improvement, employment relations, economics, research, evaluation and public policy. By connecting this skill set and applying fresh thinking, we significantly lift our clients’ performance.
 
-# OUR STRENGTHS
-Over the years, MartinJenkins has honed a robust set of strengths that describe the company’s approach to tasks and the useful traits that underpin its client reputation. The ability of our staff to believe in and consistently apply these strengths across projects produces a significant lift in performance. We call this cumulative value for clients the MartinJenkins Multiplier.
+MartinJenkins has honed a robust set of strengths that describe the company’s approach to tasks and the useful traits that underpin its client reputation. The ability of our staff to believe in and consistently apply these strengths across projects produces a significant lift in performance. We call this cumulative value for clients the [MartinJenkins Multiplier]{https://www.martinjenkins.co.nz/about-us/our-strengths/}.
 
 # DATA ANALYTICS
 Data has been referred to as the ‘new oil’ or the ‘new gold’. In itself it is valuable but when it is transformed and integrated with other material, that’s when its potential begins to be reached.
