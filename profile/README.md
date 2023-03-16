@@ -16,5 +16,17 @@ We apply our sound understanding of government, policy, and regulation, and of t
 
 We also recognised that Māori data sovereignty and privacy obligations are opportunities for public and quasi-public organisations to mature their approach to data management.  
 
-All-of-Government provider: MartinJenkins is a registered provider of consultancy services in the All-of-Government (AoG) procurement scheme for Policy, research and development and Finance and economics services – as of December 2016.
+## All-of-Government provider
+MartinJenkins is a registered provider of consultancy services in the All-of-Government (AoG) procurement scheme for Policy, research and development and Finance and economics services – as of December 2016.
 
+### DATA STRATEGIES & GOVERNANCE
+We help organisations develop data strategies and governance that enable them to get the best out of their data and use it safely.
+
+### MEASURING PERFORMANCE
+We help clients develop data-driven frameworks for measuring and monitoring their organisational performance.
+
+### DATA-DRIVEN DECISIONS
+We help clients use data-driven insights to make evidence-based policy and decisions.
+
+### DATA ANALYSIS & STORY TELLING
+We support this work in two ways: first, using statistical and econometric analysis and modelling and data triangulation to create meaningful data and insights; second, using story-telling techniques to communicate an intuitive narrative that speaks to the choices that need to be made.
