@@ -3,9 +3,9 @@
 ![MJ_Multiplier RGB 300DPI](./profile/MJ_Multiplier-RGB-300DPI.jpg)
 -->
 
-# OUR STORY
+<img align=right src=MJ_Multiplier-RGB-300DPI.jpg alt= "" width=500 height=500 style="border: 10px solid black">
 
-<img alight=right src=https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg alt= "" width=250 height=250>
+# OUR STORY
 
 For over two decades [MartinJenkins](https://www.martinjenkins.co.nz/about-us/our-story/) has specialised in providing high calibre organisational, financial, economic and public policy services to clients in New Zealand and beyond. Our energetic team of consultants has a wealth of in-depth knowledge and skills in financial and organisational management, process and business improvement, employment relations, economics, research, evaluation and public policy. By connecting this skill set and applying fresh thinking, we significantly lift our clients’ performance.
 
