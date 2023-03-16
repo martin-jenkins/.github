@@ -1,4 +1,4 @@
-![MJ_Multiplier RGB 300DPI](MJ_Multiplier RGB 300DPI.jpg)
+![MJ_Multiplier RGB 300DPI](./MJ_Multiplier RGB 300DPI.jpg)
 
 # OUR STORY
 
