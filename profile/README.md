@@ -1,4 +1,4 @@
-![MJ_Multiplier RGB 300DPI](https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg)
+![MJ_Multiplier RGB 300DPI](https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg | width=100)
 <!---
 ![MJ_Multiplier RGB 300DPI](./profile/MJ_Multiplier-RGB-300DPI.jpg)
 -->
