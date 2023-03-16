@@ -2,7 +2,7 @@
 ![](https://github.com/martin-jenkins/.github/blob/main/profile/MJ_Multiplier-RGB-300DPI.jpg =250x250)
 ![MJ_Multiplier RGB 300DPI](./profile/MJ_Multiplier-RGB-300DPI.jpg)
 -->
-<img align=right src=https://github.com/martin-jenkins/.github/blob/main/profile/MJLogo-Black-16-9.jpg alt= "" width=250 height=200 style="border: 10px solid black">
+<img align=right src=https://github.com/martin-jenkins/.github/blob/main/profile/MJLogo-Black-16-9.png alt= "" width=250 style="border: 10px solid black">
 
 # OUR STORY
 
