@@ -1,19 +1,18 @@
 # OUR STORY
 For over two decades MartinJenkins has specialised in providing high calibre organisational, financial, economic and public policy services to clients in New Zealand and beyond. Our energetic team of consultants has a wealth of in-depth knowledge and skills in financial and organisational management, process and business improvement, employment relations, economics, research, evaluation and public policy. By connecting this skill set and applying fresh thinking, we significantly lift our clients’ performance.
 
-## TURNING KNOWLEDGE INTO PERFORMANCE
-For over two decades MartinJenkins has specialised in providing high calibre organisational, financial, economic and public policy services to clients in New Zealand and beyond. Our energetic team of more than 40 consultants has a wealth of in-depth knowledge and skills in financial and organisational management, process and business improvement, employment relations, economics, research, evaluation and public policy. By connecting this skill set and applying fresh thinking, we significantly lift our clients’ performance.
+# DATA ANALYTICS
+Data has been referred to as the ‘new oil’ or the ‘new gold’. In itself it is valuable but when it is transformed and integrated with other material, that’s when its potential begins to be reached.
 
-## OUR JOURNEY
-MartinJenkins’ roots lie in the shifting sands of state sector reform in the early 90’s, when three top managers at the State Services Commission stepped out on their own.
+Public sector organisations are dealing with expanding volumes of data and making sure the data held is robust and governed appropriately. They are grappling with the problem of legacy systems, and with the challenge of integrating data, whether across their own agency or across different agencies. There is a need to ensure high-quality evidence, data, and insights exist or are brought to light in a range of policy areas. This includes local government, tertiary education, environment, the health sector, mental health, child poverty, border security, infrastructure, and work to eliminate family and sexual violence.
 
-Much has changed since then – our name, our growth into one of New Zealand’s leading strategic consultancies, and the depth and breadth of our staff’s experience. Some things have not changed – we remain the ‘savvy operators’, the ‘safe pair of hands’ that politicians and chief executives still turn to, to get things done.
+Our expertise is in using data analytics as a means to an end: we identify, structure, interpret and analyse your data in context of other datasets from the broader environment to create insights that lead to better policy, to more accurate and useful evaluations, to better investment decisions, and to better responses to organisational or strategic problems.
 
-MartinJenkins has played a quietly constructive role in many of the advances that have helped shape New Zealand society in the last twenty years. Not only has the firm been asked to do the high level, analytical thinking on organisational strategy and design, and employment relations, it has also been at the practical end of making the changes happen. As the firm’s reputation has grown around state sector reform, it has also been invited to carry out assignments for governments in Asia, the Pacific and parts of Africa.
+We support our clients to use and apply data analytics by providing a full service across all parts of the data lifecycle, including to validate past decisions. We can help embed analytics and a data strategy into your decision-making so that your choices are genuinely grounded in data. We can make your analytical functions better, improve your data capability, and build better operating models for your data teams.
 
-From the outset, MartinJenkins has focused on hiring top quality, senior people with a track record in different fields. Growth has followed as the company’s expertise has broadened and deepened around key people.
+We apply our sound understanding of government, policy, and regulation, and of the very specific data challenges faced by the public and quasi-public sectors. You need consultants who understand that public-sector data is not just any data.
 
-Unlike other consulting firms, we have always maintained a relatively ‘flat’ structure with a predominance of experienced, self-starting senior staff. For our clients, that means they will always work with senior, experienced people who are capable of solving the hard issues.
+We also recognised that Māori data sovereignty and privacy obligations are opportunities for public and quasi-public organisations to mature their approach to data management.  
 
-MartinJenkins’ sphere of operation stretches across and beyond New Zealand. In 2011, we consolidated our presence in the upper North Island with the establishment of a dedicated office in Auckland, and a conscious strategy of tailoring our services and deep knowledge of government and public policy to the needs of our corporate and local government clients.
+All-of-Government provider: MartinJenkins is a registered provider of consultancy services in the All-of-Government (AoG) procurement scheme for Policy, research and development and Finance and economics services – as of December 2016.
 
