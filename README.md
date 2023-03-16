@@ -1,4 +1,4 @@
-![MJ_Multiplier RGB 300DPI](https://user-images.githubusercontent.com/14915582/225483867-9822ae98-c797-4edd-89aa-65e673a8ebbf.jpg)
+![MJ_Multiplier RGB 300DPI](MJ_Multiplier RGB 300DPI.jpg)
 
 # OUR STORY
 
